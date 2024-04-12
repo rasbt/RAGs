@@ -1,4 +1,4 @@
-# RAGs: Simple implementations of Retrieval Augmented Generation (RAG) Systems
+# RAGs: Simple Implementations of Retrieval Augmented Generation (RAG) Systems
 
 &nbsp;
 
